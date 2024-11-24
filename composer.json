@@ -1,6 +1,6 @@
 {
-    "name": "akrabat/ip-address-middleware",
-    "description": "PSR-15 middleware that determines the client IP address and stores it as a ServerRequest attribute",
+    "name": "acelaya/ip-address-middleware",
+    "description": "Fork of http://github.com/akrabat/rka-ip-address-middleware with PHP 8.4 warnings fixed",
     "keywords": [
         "psr7", "middleware", "ip"
     ],
